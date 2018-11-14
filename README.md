@@ -3,11 +3,11 @@ ASPE's 3 day hands-on Power BI class, taught by an expert from Techtown Labs.
 
 Course developer: Bryon Brewer, Project Consults
 
+The course as we currently advertise it - http://www.techtowntraining.com/courses/power-bi-boot-camp/
+
 Current version of instructor materials - https://aspetraining.securevdr.com/d-sdbbed3d7bda465ca
 
 Current digital version of student materials - https://aspetraining.securevdr.com/d-s3b403a08bad421eb
-
-The course as we currently advertise it - http://www.techtowntraining.com/courses/power-bi-boot-camp/
 
 Here are the prerequisites we send to students enrolled in the class: http://aspetraining.com/files/Azure_ASPE_Lab_Environment_Test_with_URL.PDF
 
